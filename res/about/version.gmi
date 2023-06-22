@@ -6,6 +6,13 @@
 ```
 # Release notes
 
+## 2.0
+New features:
+
+Changes and enhancements:
+
+Fixes:
+
 ## 1.16.5
 * "New Tab" (Ctrl+T/⌘T) and the tab bar [+] button append the tab to the right edge. Previously it was inserted next to the active tab.
 
